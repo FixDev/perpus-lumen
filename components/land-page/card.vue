@@ -1,7 +1,10 @@
 <template>
     <div>
         <v-container fluid>
-            <v-row>
+            <v-row
+            style="padding: 4px 10px;"
+            align="center"
+            justify="justify">
                 <v-card
                     class="mx-auto"
                     max-width="300px"
